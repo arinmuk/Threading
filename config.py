@@ -1,0 +1,5 @@
+cloudM = "arinmuk"
+cloudMpassword = "AirAmerica419"
+sqluser = "arindam"
+sqlpass = "Airbusa350xwb"
+servername="Zbook"
